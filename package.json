@@ -1,0 +1,22 @@
+{
+  "name": "kolohelios-blog",
+  "version": "0.0.1",
+  "description": "blog content and static site generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolohelios/kolohelios-blog.git"
+  },
+  "author": "Jon Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolohelios/kolohelios-blog/issues"
+  },
+  "homepage": "https://github.com/kolohelios/kolohelios-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
